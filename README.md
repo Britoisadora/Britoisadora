@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Britoisadora
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Ola sou Isadora Brito.
 
-<!---
-Britoisadora/Britoisadora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estou com 18anos.
+
+Estou cursando Jornalismo no Polo Uninter.
+
+E estou fazendo curso no cedaspy/pinheirinho.
+
+Atualmente trabalho no Mc Donald´s Portão.
+
+    CURSOS QUE REALIZEI:
+    
+    . INTRODUÇÃO A TI
+    . ITIC
+    . DESIGN DIGITAL
+    . ILUSTRAÇÃO DIGITAL
+    . PROCESSADORES DE TEXTO
+    . PLANILHAS
+    . MANUTENÇÃO,CONFIGURAÇÃO DE REDE
+    . WEB DESIGN
+    . MARKETING DIGITAL
